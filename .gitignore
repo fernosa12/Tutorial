@@ -1,4 +1,4 @@
-# Miscellaneous
+git branch -M main# Miscellaneous
 *.class
 *.log
 *.pyc

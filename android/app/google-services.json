@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48885748837",
+    "project_id": "latihan-soalbojew",
+    "storage_bucket": "latihan-soalbojew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48885748837:android:082a270f0855f5ec91228c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48885748837-p4fpl4f4bb5metoirqbp0v2gatqkqerd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4pZyXA8PB3YW1WxVDuuhwFdr6_-WNbqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48885748837-p4fpl4f4bb5metoirqbp0v2gatqkqerd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
